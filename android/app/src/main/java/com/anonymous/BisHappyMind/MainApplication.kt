@@ -1,9 +1,8 @@
 package com.anonymous.BisHappyMind
 
+
 import android.app.Application
 import android.content.res.Configuration
-import com.reactlibrary.RNSpotifyRemotePackage
-import com.lufinkey.react.eventemitter.RNEventEmitterPackage
 
 import com.facebook.react.PackageList
 import com.facebook.react.ReactApplication
